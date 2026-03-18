@@ -13,7 +13,7 @@
 - 📫 How to reach me: 
 
 [![Linkedin: juditsutil](https://img.shields.io/badge/-juditsutil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/judit-sutil/)](https://www.linkedin.com/in/judit-sutil/)
-<a href="juditsutil@hotmail.com">
+<a href="mailto:juditsutil@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
 </a>
 [![GitHub ZoewithZ](https://img.shields.io/github/followers/ZoewithZ?label=follow&style=social)](https://github.com/ZoewithZ)
